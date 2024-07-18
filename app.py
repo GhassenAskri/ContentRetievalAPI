@@ -25,7 +25,7 @@ keyword_list_model = api.model('keyworld_list_model', {
 api_service_name = "youtube"
 api_version = "v3"
 # API key
-DEVELOPER_KEY = "AIzaSyDH3iz9Xmr0e2exFsL4ithP3dbWI4vGdL4"
+DEVELOPER_KEY = "<your-youtube-developer-key>"
 
 def create_url(content):
     res =[]
